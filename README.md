@@ -1,3 +1,3 @@
 # heatseek_nycdb
-Repository for the NYDB project
+Repository for the NYCDB project
 
