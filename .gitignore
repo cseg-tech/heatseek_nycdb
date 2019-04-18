@@ -1,2 +1,5 @@
 data/
+__pycache__/
 .ipynb_checkpoints/
+config.py
+Onboarding_Tutorial_1.ipynb
